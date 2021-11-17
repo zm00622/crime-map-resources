@@ -1,17 +1,17 @@
-# crime-map-resources
-crime-map-resources
+# Crime-Map-Resources
 
-# Mapping API's
+
+## Mapping API's
 
 https://docs.mapbox.com/mapbox-gl-js/example/
 
 https://leafletjs.com/
 
-# Crime Data API's
+## Crime Data API's
 
 https://crime-data-explorer.fr.cloud.gov/pages/docApi
 
-# Examples
+## Examples
 
 **Leaflet React Crime Map Example**
 
