@@ -16,6 +16,10 @@ https://www.familywatchdog.us/apihow.asp
 
 https://www.crimeometer.com/crime-map-api
 
+**Reddit Question - API That Gives me Crime Data by Zip Code or by Latitude and Longitude??**
+
+https://www.reddit.com/r/datasets/comments/ja3i9e/api_that_gives_me_crime_data_by_zip_code_or_by/
+
 **Information on Setting the FBI API**
 
 https://github.com/fbi-cde/crime-data-frontend
