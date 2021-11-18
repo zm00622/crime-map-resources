@@ -44,15 +44,33 @@ https://github.com/kharioki/Crime_Mapper
 
 **Ex 6**
 
-LA Crime Heat Map
+Los Angeles Example
 
 https://github.com/jaimeag/LA-Crime-heatmap
 
 **Ex 7**
 
-Chicago Supercluster Crime Map
+Chicago Example
 
 https://github.com/Borsbach/chicago-crime-api-google-map-react
+
+**Ex 8**
+
+Seattle Example
+
+https://github.com/RylanBauermeister/homesafe-frontend
+
+**Ex 9**
+
+DC Example
+
+https://github.com/Augyu/DCCrimeClient
+
+**Ex 10**
+
+NY Example
+
+https://github.com/tenchoklang/NYSeeData
 
 
 # Current Search
