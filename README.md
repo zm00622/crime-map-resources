@@ -1,6 +1,6 @@
 # Crime-Map-Resources
 
-**"Whether software be written by us, or whether that software be written by other software, we are a tool making species, and software will always be our greatest tool." ~ Zary Greer Manning**
+**"Humanity started with rocks and sticks, and now it has software. Zary started with the word ball, and now he has fetch()." ~ Zary Greer Manning**
 
 ## Mapping API's
 
