@@ -52,7 +52,7 @@ https://github.com/jaimeag/LA-Crime-heatmap
 
 Chicago Example
 
-(Err: Recieved Google Maps failed to load error)
+(Err: After installing dependencies, recieved Google Maps failed to load error)
 
 https://github.com/Borsbach/chicago-crime-api-google-map-react
 
