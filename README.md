@@ -52,6 +52,8 @@ https://github.com/jaimeag/LA-Crime-heatmap
 
 Chicago Example
 
+(Err: Recieved Google Maps failed to load error)
+
 https://github.com/Borsbach/chicago-crime-api-google-map-react
 
 **Ex 8**
@@ -73,6 +75,3 @@ NY Example
 https://github.com/tenchoklang/NYSeeData
 
 
-# Current Search
-
-https://github.com/search?q=crime+map+react&type=Repositories
