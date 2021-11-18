@@ -112,5 +112,6 @@ https://github.com/tenchoklang/NYSeeData
 https://github.com/jamalx31/mapbox-supercluster-example
 
 **Example website that shows how good mapbox can look**
+
 https://evictionlab.org/map/#/2016?geography=counties&bounds=-85.036,33.727,-81.502,35.336&type=er
 
