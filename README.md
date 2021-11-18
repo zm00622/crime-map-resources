@@ -1,5 +1,6 @@
 # Crime-Map-Resources
 
+**"We are a tool making species, and software will always be our most impactful tool (whether that software be written by us, or whether that software be written by other software).
 
 ## Mapping API's
 
