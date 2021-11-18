@@ -42,6 +42,19 @@ Crime Clusters
 
 https://github.com/kharioki/Crime_Mapper
 
+**Ex 6**
+
+LA Crime Heat Map
+
+https://github.com/jaimeag/LA-Crime-heatmap
+
+**Ex 7**
+
+Chicago Supercluster Crime Map
+
+https://github.com/Borsbach/chicago-crime-api-google-map-react
+
+
 # Current Search
 
 https://github.com/search?q=crime+map+react&type=Repositories
