@@ -14,6 +14,8 @@ https://crime-data-explorer.fr.cloud.gov/pages/docApi
 
 https://www.familywatchdog.us/apihow.asp
 
+https://www.crimeometer.com/crime-map-api
+
 **Information on Setting the FBI API**
 
 https://github.com/fbi-cde/crime-data-frontend
