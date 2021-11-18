@@ -12,6 +12,10 @@ https://leafletjs.com/
 
 https://crime-data-explorer.fr.cloud.gov/pages/docApi
 
+**Information on Setting the API**
+
+https://jacobkap.github.io/fbi/reference/set_api_key.html#examples
+
 ## Examples
 
 **Ex 1**
