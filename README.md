@@ -12,11 +12,29 @@ https://leafletjs.com/
 
 https://crime-data-explorer.fr.cloud.gov/pages/docApi
 
-**Information on Setting the API**
+https://www.familywatchdog.us/apihow.asp
+
+**Information on Setting the FBI API**
 
 https://github.com/fbi-cde/crime-data-frontend
 
 https://jacobkap.github.io/fbi/reference/set_api_key.html#examples
+
+**Information on FBI API Documentation**
+
+https://www.fbi.gov/file-repository/ucr/ucr-2019-1-nibrs-user-manua-093020.pdf/view
+
+What does ORI mean? These reports should reflect the geographic location of where
+the incident occurred by use of the city’s Originating Agency Identifier (ORI).
+
+Duvals Ori can be found here:
+
+https://www.icpsr.umich.edu/files/NACJD/ORIs/12oris.html#12_DUVAL_(FIPS=031_UCR=016)
+
+DUVAL (FIPS=031 UCR=016), FL:
+CITY/AGENCY                                               ORI7      ORI9       
+
+ATLANTIC BEACH POLICE DEPARTMENT                          FL01601   FL0160100 
 
 ## Examples
 
